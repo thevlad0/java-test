@@ -4,9 +4,9 @@
  *---------------------------------------------------------------------------------------*/
 
 package com.mycompany.app;
+import com.mycompany.app.SUSI;
+import com.mycompany.app.SUSI.UserType;
 
 public class App {
-    public static void main(String[] args) {
-        System.out.println("Hello Remote World!");
-    }
+
 }
